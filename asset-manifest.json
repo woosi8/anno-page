@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/anno-page/static/css/main.18929378.chunk.css",
+    "main.js": "/anno-page/static/js/main.ce20bb37.chunk.js",
+    "main.js.map": "/anno-page/static/js/main.ce20bb37.chunk.js.map",
+    "runtime-main.js": "/anno-page/static/js/runtime-main.40d9d26c.js",
+    "runtime-main.js.map": "/anno-page/static/js/runtime-main.40d9d26c.js.map",
+    "static/css/2.1c4bc352.chunk.css": "/anno-page/static/css/2.1c4bc352.chunk.css",
+    "static/js/2.e0d6234f.chunk.js": "/anno-page/static/js/2.e0d6234f.chunk.js",
+    "static/js/2.e0d6234f.chunk.js.map": "/anno-page/static/js/2.e0d6234f.chunk.js.map",
+    "index.html": "/anno-page/index.html",
+    "static/css/2.1c4bc352.chunk.css.map": "/anno-page/static/css/2.1c4bc352.chunk.css.map",
+    "static/css/main.18929378.chunk.css.map": "/anno-page/static/css/main.18929378.chunk.css.map",
+    "static/js/2.e0d6234f.chunk.js.LICENSE.txt": "/anno-page/static/js/2.e0d6234f.chunk.js.LICENSE.txt",
+    "static/media/weld.fe171048.png": "/anno-page/static/media/weld.fe171048.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40d9d26c.js",
+    "static/css/2.1c4bc352.chunk.css",
+    "static/js/2.e0d6234f.chunk.js",
+    "static/css/main.18929378.chunk.css",
+    "static/js/main.ce20bb37.chunk.js"
+  ]
+}
